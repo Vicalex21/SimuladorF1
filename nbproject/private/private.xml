@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Acer/OneDrive%20-%20Corporación%20Santo%20Tomas/Documentos/NetBeansProjects/SimuladorF1/src/simuladorf1/adapter/PilotoAdapter.java</file>
+            <file>file:/C:/Users/Acer/OneDrive%20-%20Corporación%20Santo%20Tomas/Documentos/NetBeansProjects/SimuladorF1/src/simuladorf1/strategy/EstrategiaConservadora.java</file>
+            <file>file:/C:/Users/Acer/OneDrive%20-%20Corporación%20Santo%20Tomas/Documentos/NetBeansProjects/SimuladorF1/src/simuladorf1/adapter/PilotoExterno.java</file>
+            <file>file:/C:/Users/Acer/OneDrive%20-%20Corporación%20Santo%20Tomas/Documentos/NetBeansProjects/SimuladorF1/src/simuladorf1/iterator/ColeccionPilotos.java</file>
+            <file>file:/C:/Users/Acer/OneDrive%20-%20Corporación%20Santo%20Tomas/Documentos/NetBeansProjects/SimuladorF1/src/simuladorf1/model/Circuito.java</file>
+            <file>file:/C:/Users/Acer/OneDrive%20-%20Corporación%20Santo%20Tomas/Documentos/NetBeansProjects/SimuladorF1/src/simuladorf1/iterator/IteradorPiloto.java</file>
+            <file>file:/C:/Users/Acer/OneDrive%20-%20Corporación%20Santo%20Tomas/Documentos/NetBeansProjects/SimuladorF1/src/simuladorf1/model/Piloto.java</file>
+            <file>file:/C:/Users/Acer/OneDrive%20-%20Corporación%20Santo%20Tomas/Documentos/NetBeansProjects/SimuladorF1/src/simuladorf1/strategy/EstrategiaBalanceada.java</file>
+            <file>file:/C:/Users/Acer/OneDrive%20-%20Corporación%20Santo%20Tomas/Documentos/NetBeansProjects/SimuladorF1/src/simuladorf1/adapter/IPiloto.java</file>
+            <file>file:/C:/Users/Acer/OneDrive%20-%20Corporación%20Santo%20Tomas/Documentos/NetBeansProjects/SimuladorF1/src/simuladorf1/model/Equipo.java</file>
+            <file>file:/C:/Users/Acer/OneDrive%20-%20Corporación%20Santo%20Tomas/Documentos/NetBeansProjects/SimuladorF1/src/simuladorf1/main/Main.java</file>
+            <file>file:/C:/Users/Acer/OneDrive%20-%20Corporación%20Santo%20Tomas/Documentos/NetBeansProjects/SimuladorF1/src/simuladorf1/strategy/EstrategiaCarrera.java</file>
+            <file>file:/C:/Users/Acer/OneDrive%20-%20Corporación%20Santo%20Tomas/Documentos/NetBeansProjects/SimuladorF1/src/simuladorf1/strategy/EstrategiaDefensiva.java</file>
+            <file>file:/C:/Users/Acer/OneDrive%20-%20Corporación%20Santo%20Tomas/Documentos/NetBeansProjects/SimuladorF1/src/simuladorf1/iterator/PilotoIterator.java</file>
+            <file>file:/C:/Users/Acer/OneDrive%20-%20Corporación%20Santo%20Tomas/Documentos/NetBeansProjects/SimuladorF1/src/simuladorf1/strategy/EstrategiaAgresiva.java</file>
+            <file>file:/C:/Users/Acer/OneDrive%20-%20Corporación%20Santo%20Tomas/Documentos/NetBeansProjects/SimuladorF1/src/simuladorf1/singleton/Temporada.java</file>
+        </group>
+    </open-files>
+</project-private>
