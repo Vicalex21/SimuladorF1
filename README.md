@@ -2,7 +2,7 @@
 
 ## Descripción del Sistema y Problema a Resolver
 
-SimuladorF1 es un programa en Java que simula una carrera de una temporada de Formula 1 2025. Permite seleccionar equipos, pilotos y circuitos para correr carreras con distintas estrategias que estan asignadas de manera aleatoria, dejando fuera del alcance del piloto y obteniendo la posicion final dependiendo de la estrategia en juego. El objetivo es modelar la dinámica real de una temporada de F1 y demostrar el uso práctico de patrones de diseño.
+SimuladorF1 es un programa en Java que simula una carrera de una temporada de Formula 1 2025. Permite seleccionar equipos, pilotos y circuitos para disputar carreras con distintas estrategias que estan asignadas de manera aleatoria, dejando fuera del alcance del piloto (usuario) y obteniendo la posicion final dependiendo de la estrategia en juego. El objetivo es modelar la dinámica real de una temporada de F1 y demostrar el uso práctico de patrones de diseño.
 
 El problema que resuelve es cómo organizar y gestionar múltiples entidades (equipos, pilotos, circuitos) y comportamientos variables (estrategias de carrera), garantizando flexibilidad y extensibilidad en el sistema.
 
