@@ -1,8 +1,8 @@
-# SimuladorF1
+# SimuladorF1 🏎️🏎️🏎️
 
 ## Descripción del Sistema y Problema a Resolver
 
-SimuladorF1 es una aplicación de consola en Java que simula una temporada de Fórmula 1. Permite seleccionar equipos, pilotos y circuitos para correr carreras con distintas estrategias de conducción. El objetivo es modelar la dinámica real de una temporada de F1 y demostrar el uso práctico de patrones de diseño.
+SimuladorF1 🏎️🏎️🏎️ es un programa en Java que simula una carrera de una temporada de Formula 1 2025. Permite seleccionar equipos, pilotos y circuitos para correr carreras con distintas estrategias que estan asignadas de manera aleatoria, dejando fuera del alcance del piloto. El objetivo es modelar la dinámica real de una temporada de F1 y demostrar el uso práctico de patrones de diseño.
 
 El problema que resuelve es cómo organizar y gestionar múltiples entidades (equipos, pilotos, circuitos) y comportamientos variables (estrategias de carrera), garantizando flexibilidad y extensibilidad en el sistema.
 
